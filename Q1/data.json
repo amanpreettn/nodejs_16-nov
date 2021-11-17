@@ -1,0 +1,26 @@
+[
+  {
+    "username": "aman22",
+    "password": "12345",
+    "firstname": "amanpreet",
+    "lastname": "singh"
+  },
+  {
+    "username": "tarun192",
+    "password": "12345",
+    "firstname": "tarundeep",
+    "lastname": "singh"
+  },
+  {
+    "username": "sanmeet255",
+    "password": "12345",
+    "firstname": "Sanmeet",
+    "lastname": "singh"
+  },
+  {
+    "username": "Arjun567",
+    "password": "12345",
+    "firstname": "Arjun",
+    "lastname": "Kumar"
+  }
+]
